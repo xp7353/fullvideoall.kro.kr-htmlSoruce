@@ -1,5 +1,4 @@
 # explanation
-[<img src="assets/logo.png" align="right" width="120">](https://simone.computer/#/webdesktops)
 fullvideoall.kro.kr <br>
 html 소스 js,css 실행용 서버
 
