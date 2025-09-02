@@ -1139,7 +1139,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("https://lh3.googleusercontent.com/pw/AP1GczOls3FgE_6G8ZoREKSK80lKxj4u8lpgXNeqQkLoIVWijKSthUMRhPD9ep1-TpUpZ11mHbXhBwKHpYWYVIAUecA3DKuM3v7dejZ098-gff9-4hiCJHlkQwoBEt07CazjXJ7ZZAJOGZi4ZESc-KnWWPDn=w512-h512-s-no-gm?authuser=1");
 			background-size: auto,
  256px 256px;
 			background-position: center,
