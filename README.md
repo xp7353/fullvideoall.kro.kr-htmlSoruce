@@ -4,7 +4,7 @@ html 소스 js,css 실행용 서버
 <br>
 <details>
   <summary><a>release update</a></summary>
-  2025-09-01 About 패이지 수정
+  2025-09-01 About 패이지 수정<br>
   2025-08-31 인터페이스 수정
 </details>
 
