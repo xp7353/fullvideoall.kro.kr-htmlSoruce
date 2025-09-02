@@ -1356,7 +1356,8 @@ input, select, textarea {
 					border-left: 0;
 				}
 
-				#header nav ul li a {
+				/* 기존 버튼 효과 백업 
+					#header nav ul li a {
 					display: block;
 					min-width: 7.5rem;
 					height: 2.75rem;
@@ -1374,6 +1375,39 @@ input, select, textarea {
 
 					#header nav ul li a:active {
 						background-color: rgba(255, 255, 255, 0.175);
+					} */
+
+				#header nav ul li a {
+					display: block;
+					min-width: 7.5rem;
+					height: 2.75rem;
+					line-height: 2.75rem;
+					padding: 0 1.25rem 0 1.45rem;
+					text-transform: uppercase;
+					letter-spacing: 0.2rem;
+					font-size: 0.8rem;
+					border-bottom: 0;
+					border-radius: 5px;
+					cursor: pointer;
+					border: 0;
+					box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+					transition: all 0.5s ease;
+				}
+
+					#header nav ul li a:hover {
+						letter-spacing: 3px;
+						background-color: hsl(261deg 80% 48%);
+						color: hsl(0, 0%, 100%);
+						box-shadow: rgb(93 24 220) 0px 7px 29px 0px;
+					}
+
+					#header nav ul li a:active {
+						letter-spacing: 3px;
+						background-color: hsl(261deg 80% 48%);
+						color: hsl(0, 0%, 100%);
+						box-shadow: rgb(93 24 220) 0px 0px 0px 0px;
+						transform: scale(1.037);
+						transition: 100ms;
 					}
 
 		#header nav.use-middle:after {
