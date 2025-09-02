@@ -1,7 +1,7 @@
 (function($) {
 
 	/**
-	 * Generate an indented list of links from a nav. Meant for use with panel().
+	 * nav에서 들여쓰기된 링크 목록을 생성합니다. panel()과 함께 사용합니다.
 	 * @return {jQuery} jQuery object.
 	 */
 	$.fn.navList = function() {
@@ -583,5 +583,6 @@
 			});
 
 	};
+
 
 })(jQuery);
