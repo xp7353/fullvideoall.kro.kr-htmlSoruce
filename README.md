@@ -3,7 +3,7 @@ fullvideoall.kro.kr <br>
 html 소스 js,css 인터페이스 실행용 서버
 <br>
 <details>
-  <summary><a>release update(페이지업데이트날짜)</a></summary>
+  <summary><a>release update(업데이트날짜)</a></summary>
 2025-09-01
 </details>
 
