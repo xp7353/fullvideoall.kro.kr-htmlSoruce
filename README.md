@@ -1,6 +1,6 @@
 # explanation
 fullvideoall.kro.kr <br>
-html 소스 js,css 실행용 서버
+html 소스 [js](https://github.com/xp7353/fullvideoall.kro.kr-htmlSoruce/blob/main/main.js), [css](https://github.com/xp7353/fullvideoall.kro.kr-htmlSoruce/blob/main/Untitled-1.css)코드 실행용 서버
 <br>
 <details>
   <summary><a>release update</a></summary>
