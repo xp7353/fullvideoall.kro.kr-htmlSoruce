@@ -1,6 +1,7 @@
 # explanation
 fullvideoall.kro.kr <br>
-html 소스 js,css 인터페이스 실행용 서버
+html 소스 js,css 
+인터페이스 실행용 백엔드서버
 <br>
 <details>
   <summary><a>release update(업데이트날짜)</a></summary>
