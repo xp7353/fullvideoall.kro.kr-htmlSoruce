@@ -2,6 +2,8 @@
 fullvideoall.kro.kr <br>
 html 소스 js,css 실행용 서버
 
+
+release update 2025-09-01
 ## reference
 
 - [explanation](https://stackoverflow.com/questions/7780550/referencing-a-css-file-in-github-repo-as-stylesheet-in-a-html-file)
